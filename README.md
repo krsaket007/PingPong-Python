@@ -10,7 +10,7 @@
 ## This project Is game made in python with kv to make it work on android
 
 - Light weight in nature
-- Faster game paly
+- Faster game play
 
 **Free Software, Hell Yeah!**
 
